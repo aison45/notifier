@@ -1,5 +1,5 @@
 {
-  "templates.email.greeting": "Hola, USER_NAME",
+  "templates.email.greeting": "Hola1, USER_NAME",
   "templates.email.signature": "El equipo de DemocracyOS.",
 
   "templates.welcome-email.subject": "¡Bienvenid@ a DemocracyOS!",
