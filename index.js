@@ -11,7 +11,7 @@ var defaultOpts = {
   collection: 'notifierJobs',
   defaultLocale: 'en',
   organizationName: 'noreply@democracyos.org',
-  organizationEmail: 'The DemocracyOS team',
+  organizationEmail: 'The DemocracyOS team2',
   mailer: {
     service: '',
     auth: {
